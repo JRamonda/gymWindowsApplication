@@ -1,0 +1,272 @@
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Perfil.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Perfil.PerfilPersonal.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\GIT_PAV1\GymVisualPav1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMActividad.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\GymPAVI\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMActividad.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_03_05_MODIFICADO\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.Asistencias.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaObjetivos.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaPlanes.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaTurnos.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMActividad.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMCiudad.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMObjetivo.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMPlan.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMTurno.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+C:\Users\feduz\OneDrive\Fedu\3ro_UTN\PAVI\Git_TPI\PAV1_GYM_09_05\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.Asistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaObjetivos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaPlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMCiudad.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMObjetivo.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMPlan.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMTurno.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM_09-05-Modificado\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe.config
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.exe
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\bin\Debug\PAV1_GYM.pdb
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.Asistencias.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaObjetivos.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaPlanes.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaTurnos.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMCiudad.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMObjetivo.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMPlan.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMTurno.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.exe
+C:\Users\Alex\Desktop\Pav proyecto\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\GYM VISUAL.exe.config
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\GYM VISUAL.exe.manifest
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\GYM VISUAL.application
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\GYM VISUAL.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\GYM VISUAL.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\EnvDTE.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\stdole.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\Microsoft.MSXML.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaAsistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaFacturas.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaPlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Estadisticas.EstadisticaTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Asistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaObjetivos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaPlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ConsultaCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Perfiles.PerfilEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Perfiles.PerfilSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.InterfacesDeUsuarios.Turnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteAsistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteFacturas.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReportePlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Reportes.ReporteTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\RdlCompile.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\RdlCompile.compiled
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\GYM VISUAL.exe.manifest
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\GYM VISUAL.application
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csproj.CopyComplete
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\GYM VISUAL.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\GYM VISUAL.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Debug\PAV1_GYM.csprojAssemblyReference.cache

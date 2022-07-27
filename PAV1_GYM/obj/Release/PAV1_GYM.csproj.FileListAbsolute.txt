@@ -1,0 +1,107 @@
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\SqlServerTypes\x64\msvcr120.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\SqlServerTypes\x86\msvcr120.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\GYM VISUAL.exe.config
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\GYM VISUAL.exe.manifest
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\GYM VISUAL.application
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\GYM VISUAL.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\GYM VISUAL.pdb
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\EnvDTE.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\stdole.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\Microsoft.MSXML.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.csprojAssemblyReference.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaAsistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaFacturas.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaPlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Estadisticas.EstadisticaTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Asistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaActividades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaObjetivos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaPlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Consultas.ConsultaTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Facturar.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Login.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ConsultaCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Mantenimiento.ABMSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.CambiarContraseña.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Perfiles.PerfilEmpleado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Perfiles.PerfilSocio.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.PerfilUsuario.PerfilPersonal.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.PrincipalMenu.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.InterfacesDeUsuarios.Turnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Properties.Resources.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteAsistencias.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteCiudades.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteEmpleados.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteFacturas.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReportePlanes.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteSocios.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Reportes.ReporteTurnos.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.Utils.MessageBoxPersonalizado.resources
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.csproj.GenerateResource.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\RdlCompile.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\RdlCompile.compiled
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.csproj.CoreCompileInputs.cache
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\GYM VISUAL.exe.manifest
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\GYM VISUAL.application
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\PAV1_GYM.csproj.CopyComplete
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\GYM VISUAL.exe
+D:\Users\Admin\Desktop\PAV 1\PAV1_GYM\PAV1_GYM\obj\Release\GYM VISUAL.pdb
